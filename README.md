@@ -2,16 +2,12 @@ git command help manual
 ==================
 *git常用命令*<br>
 from : [http://www.cnblogs.com/cspku/articles/Git_cmds.html](http://www.cnblogs.com/cspku/articles/Git_cmds.html)<br>
-Markdown语法：<br>
-1. [推酷上的这篇文章](http://www.tuicool.com/articles/zIJrEjn)
-3. [http://wowubuntu.com/markdown/#precode](http://wowubuntu.com/markdown/#precode)
-2. [https://github.com/guoyunsky/Markdown-Chinese-Demo/blob/master/README.md](https://github.com/guoyunsky/Markdown-Chinese-Demo/blob/master/README.md)
 
+####Markdown语法：
+1.  [推酷上的这篇文章](http://www.tuicool.com/articles/zIJrEjn)
+3.  [http://wowubuntu.com/markdown/#precode](http://wowubuntu.com/markdown/#precode)
+2.  [https://github.com/guoyunsky/Markdown-Chinese-Demo/blob/master/README.md](https://github.com/guoyunsky/Markdown-Chinese-Demo/blob/master/README.md)
 
-###test order list
-1.  Bird
-2.  McHale
-3.  Parish
 
 项目开发中常用命令
 ----------------
