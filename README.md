@@ -2,7 +2,9 @@ git command help manual
 ==================
 *git常用命令*<br/>
 from : [http://www.cnblogs.com/cspku/articles/Git_cmds.html](http://www.cnblogs.com/cspku/articles/Git_cmds.html)<br/>
-Markdown语法：[https://github.com/guoyunsky/Markdown-Chinese-Demo/blob/master/README.md](https://github.com/guoyunsky/Markdown-Chinese-Demo/blob/master/README.md)<br/>
+Markdown语法：<br>
+1.[推酷上的这篇文章](http://www.tuicool.com/articles/zIJrEjn)
+2.[https://github.com/guoyunsky/Markdown-Chinese-Demo/blob/master/README.md](https://github.com/guoyunsky/Markdown-Chinese-Demo/blob/master/README.md)
 
 项目开发中常用命令
 ----------------
