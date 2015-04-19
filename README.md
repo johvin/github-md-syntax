@@ -3,20 +3,21 @@ git command help manual
 *git常用命令*<br/>
 from : [http://www.cnblogs.com/cspku/articles/Git_cmds.html](http://www.cnblogs.com/cspku/articles/Git_cmds.html)<br/>
 Markdown语法：<br>
-1.[推酷上的这篇文章](http://www.tuicool.com/articles/zIJrEjn)
-2.[https://github.com/guoyunsky/Markdown-Chinese-Demo/blob/master/README.md](https://github.com/guoyunsky/Markdown-Chinese-Demo/blob/master/README.md)
+1. [推酷上的这篇文章](http://www.tuicool.com/articles/zIJrEjn)
+2. [http://wowubuntu.com/markdown/#precode](http://wowubuntu.com/markdown/#precode)
+3. [https://github.com/guoyunsky/Markdown-Chinese-Demo/blob/master/README.md](https://github.com/guoyunsky/Markdown-Chinese-Demo/blob/master/README.md)
 
 项目开发中常用命令
 ----------------
 
 ### create a new local repository
-		touch README.md
-		git init
-		git status
-		git add README.md
-		git commit -m "first commit"
-		git remote add origin <url>
-		git push origin master
+	touch README.md
+	git init
+	git status
+	git add README.md
+	git commit -m "first commit"
+	git remote add origin <url>
+	git push origin master
 
 
 git详细命令用法
